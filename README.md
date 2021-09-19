@@ -70,9 +70,9 @@ We'll be using the Processing Development Environment (PDE):
 
 ### Java Resources
 
-- [The Swift Programming Language](https://docs.swift.org/swift-book/)
-- [Hacking with Swift](https://www.hackingwithswift.com/)
-- [Ray Wenderlich](https://www.raywenderlich.com/)
+- [The Java Tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
+- [GeeksforGeeks - Java Programming Language](https://www.geeksforgeeks.org/java/)
+- [W3Schools - Java Tutorial](https://www.w3schools.com/java/default.asp)
 
 ### Processing Resources
 
