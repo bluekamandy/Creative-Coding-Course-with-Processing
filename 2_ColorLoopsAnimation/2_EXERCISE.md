@@ -28,7 +28,7 @@ Use what you've learned in your readings to translate the above code into Swift!
 
 Create a **nested for loop that fills the canvas with a grid of circles**. You can decorate them any way you'd like. You can use the image above  for inspiration or draw from art history. You can also create more complex shapes if you'd like.
 
-**Incorporate touch** (both X and Y position using the `touchX` and `touchY` keywords demonstrated in the *Getting Started* Playground of your reading) to manipulate the circles in some way. Here are a few options:
+**Incorporate the mouse** (both X and Y position using the `mouseX` and `mouseY` keywords demonstrated in your readings) to manipulate the circles in some way. Here are a few options:
 
 \- Touch position increases the number of circles.
 \- Touch position affects the size of the circles.
@@ -39,7 +39,7 @@ You must **use a for loop**.
 
 You must also **incorporate randomness** in some way. Use your Playground textook chapter titled *Randomness* to guide you.
 
-The `random()` function is explained on the *Randomness* chapter of your Playground textbook.
+The `random()` function is explained on [the Processing website](https://processing.org/reference/random_.html).
 
 There must be **at least 100 circles** when the screen is totally filled, but feel free to make more if you need.
 
