@@ -31,7 +31,7 @@ Here are the steps you should take:
 
 ## Script
 
-You will write a script for your mask that is at least **250 words** and perform it in a recorded video. You may only use music if you sing it yourself.
+You will write a script for your mask that is at least **250 words** and perform it in a recorded video. You may only use music if you sing it yourself. The script language **must be your original writing**. Do not use existing stories, language, or music in your script.
 
 Turn in the script along with your project as a **PDF**.
 

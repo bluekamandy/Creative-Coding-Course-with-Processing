@@ -12,7 +12,7 @@ In the previous module you learned how to draw using code, but what you drew was
 
 ## Instructions
 
-Modify your code for *Module 1: Drawing with Code* to **make the image respond to touch**. Do this by adding variables to your program and controlling your custom variables with the built-in SwiftProcessing variables **`touchX`** and **`touchY`**.
+Modify your code for *Module 1: Drawing with Code* to **make the image respond to touch**. Do this by adding variables to your program and controlling your custom variables with the built-in Processing variables **`mouseX`** and **`mouseY`**.
 
 This will enable your work to be **animated** and **interactive**.
 
@@ -30,7 +30,7 @@ Image by Scott Wu
 
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| Uses touch interaction (`touchX` and `touchY` or the touch functions) to add interactivity to sketch. | 10 pts |
+| Uses mouse interaction (`mouseX` and `mouseY` or the mousePressed functions) to add interactivity to sketch. | 10 pts |
 | Uses clearly named variables to control all movements.       | 10 pts |
 | Code has a clear, descriptive header. Code is helpfully commented for your future self. | 5 pts  |
 

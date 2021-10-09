@@ -30,14 +30,14 @@ Create a **nested for loop that fills the canvas with a grid of circles**. You c
 
 **Incorporate the mouse** (both X and Y position using the `mouseX` and `mouseY` keywords demonstrated in your readings) to manipulate the circles in some way. Here are a few options:
 
-\- Touch position increases the number of circles.
-\- Touch position affects the size of the circles.
-\- Touch position affects the colors of the circles.
+\- Mouse position increases the number of circles.
+\- Mouse position affects the size of the circles.
+\- Mouse position affects the colors of the circles.
 \- Any combination of the above!
 
 You must **use a for loop**.
 
-You must also **incorporate randomness** in some way. Use your Playground textook chapter titled *Randomness* to guide you.
+You must also **incorporate randomness** in some way.
 
 The `random()` function is explained on [the Processing website](https://processing.org/reference/random_.html).
 
