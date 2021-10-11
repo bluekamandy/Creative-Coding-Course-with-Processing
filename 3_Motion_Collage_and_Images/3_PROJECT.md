@@ -19,15 +19,23 @@ Like Munari and Sato, **emphasize the geometry and patterns of the abstraction**
 Here are the steps you should take:
 
 1. **Plan your face’s animations on paper before you start coding.** You will scan and turn in this plan for part of your grade.
-2. As you design, keep in mind that you’ll be **performing the character** for the class in a FlipGrid activity (see video tutorial below).
+2. As you design, keep in mind that you’ll be **performing the character** for the class in an online video.
 3. What is your **character's story**? Write a short script that you will perform (see more info below).
-4. Next, write code in SwiftProcessing to **draw your face**.
+4. Next, write code in Processing to **draw your face**.
 5. Then, **create a variable called `volume`** in your sketch and connect it to various components of your mask. You can do this by hand without microphone input to test it at first. For example, maybe a `volume` of 0.0 is a neutral face and a `volume` of 1.0 is an extreme face. Setting this volume by hand will enable you to plan your sketch out.
-6. Extend your code by **updating the variable called `volume` when the touch moves from the left to the right side of the screen**. You can do this with **touchX.** Use this variable to change different aspects of your face.
-7. **Incorporate a `reVolume` and ``eaVolume` variable.** `reVolume` is the **re-mapped volume**. Maybe a range of 0.0 to 1.0 is not large enough for your mask's movements. Use the `map()` function to remap it. This will be your `reVolume` variable. Sometimes input from the microphone can lead to sudden, unsmooth movements. You can smooth the movements out by incorporating `lerp()`. This will be your **volume with easing**. This will be your `eaVolume` variable.
-8. Finally, **insert your program into [this template](https://github.com/masoodkamandy/Processing_Mask_Template/archive/refs/heads/main.zip)** which gives you access to the microphone. Assign the value returned by `Audio.getLevel()` to your `volume` variable. `print()` the value so you can see what kinds of numbers you are working with and what you'll need to do to get your desired result.
+6. Extend your code by **updating the variable called `volume` when the touch moves from the left to the right side of the screen**. You can do this with `mouseX.` Use this variable to change different aspects of your face.
+7. **Incorporate a `reVolume` and ``eaVolume` variable.** `reVolume` is the **re-mapped volume**. Maybe a range of 0.0 to 1.0 is not large enough for your mask's movements. Use the `map()` function to remap it. This will be your `reVolume` variable. Sometimes input from the microphone can lead to sudden, unsmooth movements. You can smooth the movements out by incorporating `lerp()`. This will be your **volume with easing**. This will be your `eaVolume` variable. **NOTE:** You can make as many `reVolume` and `eaVolume`-like variables as you need for different parts of your maks. Just name them differently.
+8. Finally, **insert your program into [this template](https://github.com/masoodkamandy/Processing_Mask_Template/archive/refs/heads/main.zip)** which gives you access to the microphone. **IMPORTANT:** You will need to **rename your folder to remove the `-main` from the title**, otherwise Processing will not see all of the files. You will work with the `v` variable which returns a float from 0.0 to 1.0. `print()` the value so you can see what kinds of numbers you are working with and what you'll need to do to get your desired result.
 
 **Note:** Bluetooth microphones can sometimes cause problems. It's recommended to use the internal microphone on your computer or a wired microphone.
+
+## Import Minim Library
+
+To use this template you will need to add a library called *Minim*. To add this library go to:
+
+`Sketch > Import Library... > Add Library` 
+
+And filter for *Minim*. Click **Install Library**.
 
 ## Script
 
