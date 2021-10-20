@@ -8,6 +8,7 @@
   - [What header should I always place at the top of my code?](#What-header-should-I-always-place-at-the-top-of-my-code)
   - [How should I archive my own projects?](#How-should-I-archive-my-own-projects)
 - [Processing](#Processing)
+  - [What does it mean when there are multiple `.pde` files in a folder?](#What-does-it-mean-when-there-are-multiple-.pde-files-in-a-folder)
 - [macOS](#macos)
   - [How do I take a screen grab?](#how-do-i-take-a-screen-grab)
   - [How do I create a zip file from a folder?](#how-do-i-create-a-zip-file-from-a-folder)
