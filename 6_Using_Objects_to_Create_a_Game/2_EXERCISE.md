@@ -60,6 +60,18 @@ hitPaddle(paddleX, paddleY,
           ballX, ballY, ballRadius)
 ```
 
+## **File Submission Instructions**
+
+Only 1 file submission per group is required. When submitting your main zip file, it should be named like this:
+
+`Last1_Last2_Last3_Exercise.zip`
+
+Inside of this folder there should be 3 separate Processing projects:
+
+1. `ball`
+2. `paddle`
+3. `collision`
+
 ## Student Examples
 
 The following are student examples used with permission:
