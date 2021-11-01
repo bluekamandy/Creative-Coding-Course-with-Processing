@@ -64,7 +64,7 @@ hitPaddle(paddleX, paddleY,
 
 Only 1 file submission per group is required. When submitting your main zip file, it should be named like this:
 
-`Last1_Last2_Last3_Exercise.zip`
+`LastFirst1_LastFirst2_LastFirst3_GameElements.zip`
 
 Inside of this folder there should be 3 separate Processing projects:
 
