@@ -26,8 +26,8 @@ Create a single paddle using the **`rect()` function** with the following charac
 
 - The **paddle height** should be **20 px tall** and **100 px wide**
 - The paddle should be positioned **20 px from the left edge**.
-- **Use `touchX`** to control the x-position of the paddle.
-- The paddle should stay **fixed in its y-position**.
+- **Use `mouseY`** to control the y-position of the paddle.
+- The paddle should stay **fixed in its x-position**.
 - Use the **`constrain()` function** to constrain your y-position so that the paddle does not move off the screen.
 
 #### **Challenge 2: Ball**
@@ -52,7 +52,7 @@ Use your ball code and modify it in the following way:
 
 - Write a **collision detection boolean function** called `hitPaddle()` in which you feed the location and size of the rectangle  and the location of the ball. This function will detect when the ball is inside the square and give a visual indication by changing the fill  color of the square. You will use an **if else statement** to change the fill of the square.
 
-  Your boolean function will look a little like this when you use it (it can be written on a single line. Multiple lines used here for space.):
+  Your boolean function will look a little like this when you use it (it can be written on a single line. Multiple lines used here for space. This is only pseudocode, so you'll still need to write the correct format when defining and calling a function.):
 
 ```swift
 hitPaddle(paddleX, paddleY,
