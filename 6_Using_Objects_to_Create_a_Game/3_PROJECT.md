@@ -26,7 +26,7 @@ Make your code from the workshop is in **object oriented notation or functions**
 
 ### Step 2: Combine all of your code to create a single digital tennis game.
 
-Instead of single paddle, create two  instances of your paddle object. For now both paddles will be controlled by `touchX` and `touchY` and will mirror each other. This will enable you to debug the game.
+Instead of single paddle, create two  instances of your paddle object. For now both paddles will be controlled by `mouseX` and `mouseY` and will mirror each other. This will enable you to debug the game.
 
 ### **Step 3: Add a score to your game**
 
