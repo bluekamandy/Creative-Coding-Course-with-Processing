@@ -76,7 +76,7 @@ For finished Expanded Cinema examples, *see the Module 5 project page*.
 
 The following are student examples used with permission:
 
-**Flowchart Example**
+### Flowchart Example
 
 ![MorseCat_ExpandedCinema_Flowchart](images/MorseCat_ExpandedCinema_Flowchart.png)
 
@@ -88,7 +88,19 @@ Flowchart by Ziyu Zhang. This is a flow chart with a single beginning and 3 diff
 
 ![SiapnoGeorgia_FlowChart](images/SiapnoGeorgia_FlowChart.png)
 
-Flowchart by Georgia Siapno. Georgia's approach was to create a flowchart that also planned out the interactive experience visually. It operates simultaneously as a flowchart and a prototype to talk about what it's like to 
+Flowchart/prototype by Georgia Siapno. Georgia's approach was to create a flowchart that also planned out the interactive experience visually. It operates simultaneously as a flowchart and a prototype to talk about what it's like visually to walk through the software.
+
+### Completed Project Examples
+
+![PuzioEsme_ExpandedCinema](images/PuzioEsme_ExpandedCinema.png)
+
+Sketch by Esme Puzio. In this expanded cinema narrative, the user navigates using the keyboard through a surreal landscape. The images are taken from Google Street View and modified for surreal effect. The goal is to find a magic eight ball hidden somewhere in the dream.
+
+![SiapnoGeorgia_ExpandedCinema](images/SiapnoGeorgia_ExpandedCinema.gif)
+
+Sketch by Georgia Siapno. Georgia created a clickable interior that, when you clicked on the bed, took you into a randomly generated dream-like maze space. This project enabled Georgia to showcase her illustration skills and incorporated playfulness (like how clicking on the TV turned it on).
+
+
 
 ## Rubric
 

@@ -15,18 +15,6 @@ For this project, you'll need to turn in:
 1. A fully functioning sketch with instructions on how to use it.
 2. Your final flow chart or plan for the structure of the project.
 
-## Student Examples
-
-The following are student examples used with permission:
-
-![PuzioEsme_ExpandedCinema](images/PuzioEsme_ExpandedCinema.png)
-
-Sketch by Esme Puzio. In this expanded cinema narrative, the user navigates using the keyboard through a surreal landscape. The images are taken from Google Street View and modified for surreal effect. The goal is to find a magic eight ball hidden somewhere in the dream.
-
-![SiapnoGeorgia_ExpandedCinema](images/SiapnoGeorgia_ExpandedCinema.gif)
-
-Sketch by Georgia Siapno. Georgia created a clickable interior that, when you clicked on the bed, took you into a randomly generated dream-like maze space. This project enabled Georgia to showcase her illustration skills and incorporated playfulness (like how clicking on the TV turned it on).
-
 ## Rubric
 
 **Note:** Code must function in order to earn credit.
