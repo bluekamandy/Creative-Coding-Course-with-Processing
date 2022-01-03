@@ -40,7 +40,7 @@ Use only **your own media**, media that you have **transformed** or media that y
 
 It is recommended to **resize your images** to the maximum size that they are used. Large images can slow down your sketch.
 
-There are a couple of SwiftProcessing functions you will definitely want to use in this exercise: `random()` and `frameRate()`. We've already used random quite a bit, but `frameRate()` might be new. `frameRate()` takes in a parameter is the number of frames per second you'd like your sketch to run at. The default value is `60`, so most of your sketches will try to run at 60 frames per second. For this sketch you'll want to set it to `1`.
+There are a couple of Processing functions you will definitely want to use in this exercise: `random()` and `frameRate()`. We've already used random quite a bit, but `frameRate()` might be new. `frameRate()` takes in a parameter is the number of frames per second you'd like your sketch to run at. The default value is `60`, so most of your sketches will try to run at 60 frames per second. For this sketch you'll want to set it to `1`.
 
 ## Examples of Collage Across Different Media
 
@@ -68,17 +68,21 @@ There are a couple of SwiftProcessing functions you will definitely want to use 
 
 The following are student examples used with permission:
 
-Coming soon.
+![WuScott_CollageEngine](images/WuScott_CollageEngine.gif)
+
+Sketch by Scott Wu.
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| Your collage recreates itself every second from a pool of 10 images (at least). | 10 pts |
-| The `random()` function is used.                             | 10 pts |
-| Collage has a clear compositional logic. Code has a clear, descriptive header. Images are not just random on the canvas. | 10 pts |
-| `frameRate(1)` is used and is located in the correct place.  | 10 pts |
-| Code is helpfully commented for your future self.            | 10 pts |
+| **Technique**<br />- The **`random()`** function is used correctly. | 1 pt   |
+| -**`frameRate(1)`** is used and is located in the correct place (in `setup()`). | 1 pt   |
+| **Conceputal Understanding**<br />- Your collage recreates itself **every second** from a **pool of 10 images** (at least). | 1 pt   |
+| - Collage has a **clear compositional logic**. Images are **not** just randomly placed or combined. | 1 pt   |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows)<br />- The code is presented neatly **without** commented out code.Code is helpfully commented for your future self. | 1 pt   |
 
 [Next Section: Project](3_PROJECT.md)
 

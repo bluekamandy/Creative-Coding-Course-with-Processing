@@ -72,17 +72,33 @@ The video is [available on UbuWeb](https://ubu.com/film/jafa_message.html).
 
 ## Student Examples
 
+For finished Expanded Cinema examples, *see the Module 5 project page*.
+
 The following are student examples used with permission:
 
-Coming soon.
+**Flowchart Example**
+
+![MorseCat_ExpandedCinema_Flowchart](images/MorseCat_ExpandedCinema_Flowchart.png)
+
+Flowchart by Cat Morse. In Cat's example she has a single beginning and ending, but 3 possible middle portions. This is one way of approaching this assignment.
+
+![ZhangZiyu_ExpandedCinema_Flowchart](images/ZhangZiyu_ExpandedCinema_Flowchart.png)
+
+Flowchart by Ziyu Zhang. This is a flow chart with a single beginning and 3 different endings. There are many different possible paths through the narrative.
+
+![SiapnoGeorgia_FlowChart](images/SiapnoGeorgia_FlowChart.png)
+
+Flowchart by Georgia Siapno. Georgia's approach was to create a flowchart that also planned out the interactive experience visually. It operates simultaneously as a flowchart and a prototype to talk about what it's like to 
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| You've flowcharted or otherwise planned and prototyped your project. Documentation of your planning/prototype is included. | 20 pts |
-| A minimum of 12 images have been used with at least six distinct scenes. | 20 pts |
-| A beginning codebase is created that shows structure, the use of a switch | 10 pts |
+| **Technique**<br />- A **beginning codebase** is created that shows structure, the use of a **`switch`**<br />- Show how you will **keep track of a user's progress** through the story using `integers`, `enums`, or some other form of state management. | 1 pts  |
+| **Conceptual Understanding**<br />- A minimum of **12 images** or image elements have been chosen for at least **six distinct scenes**.<br />- You've **flowcharted** or otherwise **planned/prototyped** your project and documentation of your planning/prototype is included as a scanned PDF (must be oriented correctly).<br />- Prototype shows that it's possible to navigate through story using **multiple paths**. | 1 pts  |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows)<br />- The code is presented neatly **without** commented out code. | 1 pts  |
 
 [Next Section: Module 5](../5_Classes_Objects_and_Arrays/README.md)
 

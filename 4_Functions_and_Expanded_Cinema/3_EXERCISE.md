@@ -33,16 +33,26 @@ In 1996, [John Maeda](https://maedastudio.com/) experimented with PostScript, a 
 
 The following are student examples used with permission:
 
-Coming soon.
+![AguinagaSylvia_TypographyWithFunctions](images/AguinagaSylvia_TypographyWithFunctions.gif)
+
+Sketch by Sylvia Aguinaga. Silvia's font included a drip and keyboard interaction (which isn't shown here).
+
+![PalkovicsGergo_TypographyWithFunctions](images/PalkovicsGergo_TypographyWithFunctions.gif)
+
+Sketch by Greg Palkovics. Greg incorporated interactivity to his assignment.
+
+![SiapnoGeorgia_TypographyWithFunctions](images/SiapnoGeorgia_TypographyWithFunctions.gif)
+
+Sketch by Georgia Siapno. Georgia took a unique approach to this assignment and made her typography change with time. She not only produced an animated type-face, but its depiction changes with the time of day.
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| Project has 3 letter functions with parameters that make sense and a 4th function with paremeters that calls the other 3 functions together. | 10 pts |
-| Typographic research was included with the project.          | 5 pts  |
-| Updates once per second with randomness.                     | 5 pts  |
-| Code is helpfully commented for your future self.            | 5 pts  |
+| **Technique**<br />- Project has **3 letter functions** with parameters that make sense and a 4th function with paremeters that calls the other 3 functions together.<br />- Functions **must have parameters** and they must make sense for the function. Suggestions might be x/y position, color, thickness, etc.<br />- Updates once per second with randomness. | 1 pt   |
+| **Conceptual Understanding**<br />- Typographic **research** was included with the project.<br />- **Paper protoype/sketch** is scanned and included. | 1 pt   |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows)<br />- The code is presented neatly **without** commented out code. | 1 pt   |
 
 [Next Section: Project](4_PROJECT.md)
-

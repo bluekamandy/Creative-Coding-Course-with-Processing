@@ -64,16 +64,27 @@ Think about the user of your game. Make it so that your user **never has to rest
 
 The following are student examples used with permission:
 
-Coming soon.
+![NugumanovaDana_Game](images/NugumanovaDana_Game.gif)
+
+Sketch by Dana Nugumanova. Dana used her illustration skills to create a game about a girl who broke a necklace and was trying to catch the pearls as they bounced around in her bathroom.
+
+![SohnMookyung_Game1](images/SohnMookyung_Game1.png)
+
+![SohnMookyung_Game2](images/SohnMookyung_Game2.png)
+
+Sketch by Mookyung Sohn. Mookyung created a variation of the original game of Breakout with a unique and bright primary and secondary color palette with a larger ball. The game has a strong visual sensibility and is a unique take on the assignment.
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| Game is fully functional and does not require restarting the code. | 50 pts |
-| Game is fully customized to reflect your concept. A comment at the top of your code explains in detail what your concept was and how the game has been customized. Also leave a comment with any instructions for how to play. | 20 pts |
-| Contains all required code and all components are written in object oriented notation, with the exception of collision detection which can be a function. | 20 pts |
-| Code has a descriptive header that includes your name and the project information. Code is helpfully commented for your future self. If you worked in a group, describe who did what in your header. | 10 pts |
+| **Technique**<br />- Contains all required code for **original Pong game**.<br />- All components are written in **object oriented notation**, with the exception of collision detection. | 1 pt   |
+| - Collision detection is written as a function that returns a boolean (true/false).<br />- Game runs without glitches and **collisions with ball, wall, and paddle happen at the right place** (i.e. on the correct edges) | 1 pt   |
+| **Conceptual Understanding**<br />- Game is **fully customized** to reflect a concept. Code **must include more than subtle esthetic changes** to the original game of Pong (i.e. no simple color changes).<br />- A comment at the top of your code **explains in detail what your concept was** and how the game has been customized. | 1 pt   |
+| - **Instructions** are included in the header for how to play.<br />- Game keeps the player in the game environment. It **doesn't require restarting the code to play again**. | 1 pt   |
+| **Presentation**<br />- **Important:** If you worked in a group, **describe who did what in your header**.<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows)<br />- The code is presented neatly **without** commented out code. | 1 pt   |
 
 [Next Section: Module 7](../7_Final_Project/README.md)
 

@@ -2,7 +2,7 @@
 
 # Module 3: Project
 
-## ![geometric_animation](images/Evelyn_Askew_Mask.gif)
+![geometric_animation](images/Evelyn_Askew_Mask.gif)
 
 Mask by Evelyn Askew.
 
@@ -22,20 +22,20 @@ Here are the steps you should take:
 2. As you design, keep in mind that you’ll be **performing the character** for the class in an online video.
 3. What is your **character's story**? Write a short script that you will perform (see more info below).
 4. Next, write code in Processing to **draw your face**.
-5. (**Optional** if you want to start *without* the template first.) Then, **create a variable called `volume`** in your sketch and connect it to various components of your mask. You can do this by hand without microphone input to test it at first. For example, maybe a `volume` of 0.0 is a neutral face and a `volume` of 1.0 is an extreme face. Setting this volume by hand will enable you to plan your sketch out.
-6. (**Optional** if you want to start *without* the template first.) Extend your code by **updating the variable called `volume` when the touch moves from the left to the right side of the screen**. You can do this with `mouseX.` Use this variable to change different aspects of your face.
-7. **Incorporate a `reVolume` and ``eaVolume` variable.** `reVolume` is the **re-mapped volume**. Maybe a range of 0.0 to 1.0 is not large enough for your mask's movements. Use the `map()` function to remap it. This will be your `reVolume` variable. Sometimes input from the microphone can lead to sudden, unsmooth movements. You can smooth the movements out by incorporating `lerp()`. This will be your **volume with easing**. This will be your `eaVolume` variable. **NOTE:** You can make as many `reVolume` and `eaVolume`-like variables as you need for different parts of your maks. Just name them differently.
+5. (**Optional** if you want to start *without* the template first for planning.) Then, **create a variable called `volume`** in your sketch and connect it to various components of your mask. You can do this by hand without microphone input to test it at first. For example, maybe a `volume` of 0.0 is a neutral face and a `volume` of 1.0 is an extreme face. Setting this volume by hand will enable you to plan your sketch out.
+6. (**Optional** if you want to start *without* the template first for planning.) Extend your code by **updating the variable called `volume` when the touch moves from the left to the right side of the screen**. You can do this with `mouseX.` Use this variable to change different aspects of your face.
+7. **Incorporate a `reVolume` and `eaVolume` variable.** `reVolume` is the **re-mapped volume**. Maybe a range of 0.0 to 1.0 is not large enough for your mask's movements. Use the `map()` function to remap it. This will be your `reVolume` variable. Sometimes input from the microphone can lead to sudden, unsmooth movements. You can smooth the movements out by incorporating `lerp()`. This will be your **volume with easing**. This will be your `eaVolume` variable. **NOTE:** You can make as many `reVolume` and `eaVolume`-like variables as you need for different parts of your maks. Just name them differently.
 8. Finally, **insert your program into [this template](https://github.com/masoodkamandy/Processing_Mask_Template/archive/refs/heads/main.zip)** which gives you access to the microphone. **IMPORTANT:** You will need to **rename your folder to remove the `-main` from the title**, otherwise Processing will not see all of the files. You will work with the `v` variable which returns a float from 0.0 to 1.0. `print()` the value so you can see what kinds of numbers you are working with and what you'll need to do to get your desired result.
 
 **Note:** Bluetooth microphones can sometimes cause problems. It's recommended to use the internal microphone on your computer or a wired microphone.
 
 ## Import Minim Library
 
-To use this template you will need to add a library called *Minim*. To add this library go to:
+To use this template **you will need to add a library called *Minim*** to Processing. To add this library go to:
 
 `Sketch > Import Library... > Add Library` 
 
-And filter for *Minim*. Click **Install Library**.
+Search for *Minim*. Click **Install Library**.
 
 ## Script
 
@@ -51,7 +51,7 @@ Use a video sharing service like YouTube to upload your creation and share your 
 
 The following are student examples used with permission:
 
-![Vivan Rowe](images/Vivian_Rowe_Mask.gif).
+![Vivan Rowe](images/Vivian_Rowe_Mask.gif)
 
 Mask by Vivian Rowe.
 
@@ -61,13 +61,15 @@ Mask by Dana Nugumanova.
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| You created a storyboard and sketches to plan out your mask and its motion. | 10 pts |
-| You wrote a script of at least 250 words for your performance and included it with your files. | 10 pts |
-| You provided a link to your project on a video sharing website. | 10 pts |
-| Code includes instructions and runs without any adjustment or intervention. | 10 pts |
-| Code is helpfully commented for your future self.            | 10 pts |
+| **Technique**<br />- Provided **template** file is used.<br />- **Minim library** is properly added to Processing. | 1 pt   |
+| - Volume is controlled using the **`map()`** function.<br />- **Easing** is implemented with the **`lerp()`** function (see instructions and example code). | 1 pt   |
+| **Conceptual Understanding**<br />- You created a storyboard and sketches to plan out your mask and its motion.<br />- You wrote a script of at least 250 words for your performance and included it with your files. | 1 pt   |
+| **Presentation**<br />- Code includes **instructions** and runs without any adjustment or intervention.<br />- You provided a **link** to your project on a **video sharing website**. | 1 pt   |
+| - Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows)<br />- The code is presented neatly **without** commented out code.Code is helpfully commented for your future self. | 1 pt   |
 
 [Next Section: Module 4](../4_Functions_and_Expanded_Cinema/README.md)
 

@@ -22,7 +22,7 @@ for x from 0 to xMax { // For horizontal coordinates.
 }
 ```
 
-Use what you've learned in your readings to translate the above code into Swift!
+Use what you've learned in your readings to translate the above code into Processing/Java!
 
 ## Instructions
 
@@ -49,18 +49,20 @@ The following are student examples used with permission:
 
 ![Scott_Wu_For_Loop](images/Scott_Wu_For_Loop.gif)
 
-Image by Scott Wu
+Sketch by Scott Wu
 
 ![Valarie_Chiu_ForLoop](images/Valarie_Chiu_For_Loop.gif)
 
-Image by Valarie Chiu
+Sketch by Valarie Chiu
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| Correctly uses a nested for loop to create a grid of objects. | 10 pts |
-| Sketch is animated, incorporates randomness, and the touch position changes the appearance of the grid or shapes. Mouse should be integrated in for loop. | 10 pts |
-| Code has a clear, descriptive header. Code is helpfully commented for your future self. | 5 pts  |
+| **Technique**<br />- Correctly uses a **nested for loop** to create a grid of objects. | 1 pts  |
+| **Conceptual Understanding**<br />- Sketch is **animated**<br />- Incorporates **randomness**<br />- **Mouse position** changes the appearance of the grid or shapes. Mouse should be integrated in for loop. | 1 pts  |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows)<br />- The code is presented neatly **without** commented out code. | 1 pts  |
 
 [Previous Section: Project](3_PROJECT.md)

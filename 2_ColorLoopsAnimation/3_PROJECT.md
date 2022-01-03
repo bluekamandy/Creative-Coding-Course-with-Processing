@@ -2,37 +2,39 @@
 
 # Module 2: Project
 
-## ![Carlos_Monterosa](images/Carlos_Monterosa.gif)
+![Carlos_Monterosa](images/Carlos_Monterosa.gif)
 
 Animated version of László Moholy-Nagy's *Composition A XXI* (1925) by Carlos Monterosa.
 
 ## Animation & Interaction
 
-In the previous module you learned how to draw using code, but what you drew was a **static image**. In this assignment we're going to bring your previous sketch to life and **learn how to animate** and **make it interactive** using **touch** input.
+In the previous module you learned how to draw using code, but what you drew was a **static image**. In this assignment we're going to bring your previous sketch to life and **learn how to animate** and **make it interactive** using **user input**.
 
 ## Instructions
 
-Modify your code for *Module 1: Drawing with Code* to **make the image respond to touch**. Do this by adding variables to your program and controlling your custom variables with the built-in Processing variables **`mouseX`** and **`mouseY`**.
+Modify your code for *Module 1: Drawing with Code* to **make the image respond to input**. Do this by adding variables to your program and controlling your custom variables with the built-in Processing variables **`mouseX`**, **`mouseY`**, and the **`mousePressed`** function. Use keyboard input using the **`key`** variable and **`keyPressed`** function.
 
 This will enable your work to be **animated** and **interactive**.
 
-Think about how the motion from your user's touch should aesthetically affect the lines and shapes. 
+Think about how the motion from your user's input should aesthetically affect the lines and shapes. 
 
-## Student Examples
+## Student Example
 
 The following are student examples used with permission:
 
 ![ScottWu](images/Scott_Wu.gif)
 
-Image by Scott Wu
+Sketch by Scott Wu
 
 ## Rubric
 
+**Note:** Code must function in order to earn credit.
+
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| Uses mouse interaction (`mouseX` and `mouseY` or the mousePressed functions) to add interactivity to sketch. | 10 pts |
-| Uses clearly named variables to control all movements.       | 10 pts |
-| Code has a clear, descriptive header. Code is helpfully commented for your future self. | 5 pts  |
+| **Technique**<br />- Uses **mouse** (**`mouseX`** and **`mouseY`** or the **`mousePressed`** functions).<br /><br />- Uses **keyboard** (the **`key`** variable or **`keyPressed`** function).<br />- Uses **clearly named variables to control all movements**. Variable names should refer to their function. Avoid single letter variable names and serial numbers (x, y, z, x1, x2, x3, etc.). They should be more descriptive. | 1 pts  |
+| **Conceptual Understanding**<br />- Sketch is **interactive**.<br />- Interactivity adds **basic, input-based animation** to the sketch. | 1 pts  |
+| **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows)<br />- The code is presented neatly **without** commented out code. | 1 pts  |
 
 [Next Section: Module 3](../3_Motion_Collage_and_Images/README.md)
 
