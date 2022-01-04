@@ -32,7 +32,7 @@ Sketch by Scott Wu
 
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
-| **Technique**<br />- Uses **mouse** (**`mouseX`** and **`mouseY`** or the **`mousePressed`** functions).<br /><br />- Uses **keyboard** (the **`key`** variable or **`keyPressed`** function).<br />- Uses **clearly named variables to control all movements**. Variable names should refer to their function. Avoid single letter variable names and serial numbers (x, y, z, x1, x2, x3, etc.). They should be more descriptive. | 1 pts  |
+| **Technique**<br />- Uses **mouse** (**`mouseX`** and **`mouseY`** or the **`mousePressed`** functions).<br />- Uses **keyboard** (the **`key`** variable or **`keyPressed`** function).<br />- Uses **clearly named variables to control all movements**. Variable names should refer to their function. Avoid single letter variable names and serial numbers (x, y, z, x1, x2, x3, etc.). They should be more descriptive. | 1 pts  |
 | **Conceptual Understanding**<br />- Sketch is **interactive**.<br />- Interactivity adds **basic, input-based animation** to the sketch. | 1 pts  |
 | **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows)<br />- The code is presented neatly **without** commented out code. | 1 pts  |
 
