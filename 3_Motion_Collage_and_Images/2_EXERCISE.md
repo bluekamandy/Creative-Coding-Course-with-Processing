@@ -80,7 +80,7 @@ Sketch by Scott Wu.
 | ------------------------------------------------------------ | ------ |
 | **Technique**<br />- The **`random()`** function is used correctly. | 1 pt   |
 | -**`frameRate(1)`** is used and is located in the correct place (in `setup()`). | 1 pt   |
-| **Conceputal Understanding**<br />- Your collage recreates itself **every second** from a **pool of 10 images** (at least). | 1 pt   |
+| **Conceptual Understanding**<br />- Your collage recreates itself **every second** from a **pool of 10 images** (at least). | 1 pt   |
 | - Collage has a **clear compositional logic**. Images are **not** just randomly placed or combined. | 1 pt   |
 | **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows)<br />- The code is presented neatly **without** commented out code.Code is helpfully commented for your future self. | 1 pt   |
 
