@@ -52,7 +52,7 @@ Sketch by Georgia Siapno. Georgia took a unique approach to this assignment and 
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
 | **Technique**<br />- Project has **3 letter functions** with parameters that make sense and a 4th function with paremeters that calls the other 3 functions together.<br />- Functions **must have parameters** and they must make sense for the function. Suggestions might be x/y position, color, thickness, etc.<br />- Updates once per second with randomness. | 1 pt   |
-| **Conceptual Understanding**<br />- Typographic **research** was included with the project.<br />- **Paper protoype/sketch** is scanned and included. | 1 pt   |
+| **Conceptual Understanding**<br />- Typographic **research** was included with the project.<br />- **Paper prototype/sketch** is scanned and included. | 1 pt   |
 | **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows)<br />- The code is presented neatly **without** commented out code. | 1 pt   |
 
 [Next Section: Project](4_PROJECT.md)
