@@ -14,7 +14,7 @@ Drawing with code means interpreting the  shapes, colors and sizes in a work and
 
 ### Step 1: Find a Painting to Work From
 
-For this assignment we will be drawing inspiration from the history of geometric abstraction in painting. You will be doing some online research and **choosing one painting** as the inspiration for your first SwiftProcessing sketch. You may choose any painting you find online that involves geometric abstraction or hard edge painting. Some artists I recommend you search are: László Moholy-Nagy, Kazimir Malevich, Sophie Taeuber-Arp, Sarah Morris, Maya Hayuk, Robert Delauney, Victor Vasarely, Vera Molnar, and Bridget Riley.
+For this assignment we will be drawing inspiration from the history of geometric abstraction in painting. You will be doing some online research and **choosing one painting** as the inspiration for your first Processing sketch. You may choose any painting you find online that involves geometric abstraction or hard edge painting. Some artists I recommend you search are: László Moholy-Nagy, Kazimir Malevich, Sophie Taeuber-Arp, Sarah Morris, Maya Hayuk, Robert Delauney, Victor Vasarely, Vera Molnar, and Bridget Riley.
 
 ### Step 2: Select an Interesting Crop
 
