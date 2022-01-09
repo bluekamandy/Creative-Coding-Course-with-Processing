@@ -40,9 +40,11 @@ Your assignment is based on the [Conditional Drawing Manifesto](https://conditio
 
 ## Student Examples
 
+**Note:** The example I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments.
+
 The following is a student example used with permission:
 
-Instructions:
+Instructions by Connell Trainor:
 
 ![Connell_CodingForHumans_Instructions](images/Connell_CodingForHumans_Instructions.png)
 
@@ -53,6 +55,18 @@ Follow the instructions yourself:
 Ask a partner to do the instructions without showing them your own results:
 
 ![Connell_CodingForHumans_Partner](images/Connell_CodingForHumans_Partner.png)
+
+Instructions by Sain Lim:
+
+![LimSain_CodingForHumans_Instructions](images/LimSain_CodingForHumans_Instructions.png)
+
+Follow the instructions yourself:
+
+![LimSain_CodingForHumans_Self](images/LimSain_CodingForHumans_Self.png)
+
+Ask a partner to do the instructions without showing them your own results:
+
+![LimSain_CodingForHumans_Partner](images/LimSain_CodingForHumans_Partner.png)
 
 ## Rubric
 
