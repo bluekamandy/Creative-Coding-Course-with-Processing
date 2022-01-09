@@ -64,6 +64,8 @@ Use the **APA style** to list your sources. You can use [Purdue's OWL website](h
 
 ## Student Examples
 
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
 The following are student examples used with permission:
 
 ![ThossCat_FinalProject](images/ThossCat_FinalProject.gif)

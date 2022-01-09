@@ -31,6 +31,8 @@ In 1996, [John Maeda](https://maedastudio.com/) experimented with PostScript, a 
 
 ## Student Examples
 
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
 The following are student examples used with permission:
 
 ![AguinagaSylvia_TypographyWithFunctions](images/AguinagaSylvia_TypographyWithFunctions.gif)
@@ -43,7 +45,7 @@ Sketch by Greg Palkovics. Greg incorporated interactivity to his assignment.
 
 ![SiapnoGeorgia_TypographyWithFunctions](images/SiapnoGeorgia_TypographyWithFunctions.gif)
 
-Sketch by Georgia Siapno. Georgia took a unique approach to this assignment and made her typography change with time. She not only produced an animated type-face, but its depiction changes with the time of day.
+Sketch by Georgia Siapno. Georgia took a unique approach to this assignment and made her typography change with time. She not only produced an animated typeface, but its depiction changes with the time of day.
 
 ## Rubric
 

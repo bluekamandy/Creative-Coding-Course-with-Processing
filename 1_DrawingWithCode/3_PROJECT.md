@@ -28,6 +28,10 @@ The goal for this project is to translate the painting into code.
 
 ## Student Example
 
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
+The following is a student example used with permission:
+
 ![ScottWu_DrawingWithCode](images/ScottWu_DrawingWithCode.png)
 
 Sketch by Scott Wu.

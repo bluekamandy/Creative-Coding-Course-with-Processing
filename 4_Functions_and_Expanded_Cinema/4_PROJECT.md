@@ -72,6 +72,8 @@ The video is [available on UbuWeb](https://ubu.com/film/jafa_message.html).
 
 ## Student Examples
 
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
 For finished Expanded Cinema examples, *see the Module 5 project page*.
 
 The following are student examples used with permission:

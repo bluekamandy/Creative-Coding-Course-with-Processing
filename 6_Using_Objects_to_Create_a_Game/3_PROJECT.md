@@ -38,9 +38,9 @@ The score could be an object, and be programmed in object oriented notation. Tha
 
 ### Step 4: Customize the look and feel of your game.
 
-Brainstorm possible concepts that will make your game unique. First decide on a  look that you will use to set your digital tennis game apart. For full credit, **your game must have a unique look**.
+Brainstorm possible concepts that will make your game unique. First decide on a  look that you will use to set your digital tennis game apart. For full credit, **your game must have a unique look that is more than just superficial color changes**.
 
-Then, think about ways to also make the game play slightly unique. **Possible ways to customize your game** include:
+Then, think about ways to also make the game play unique. **Possible ways to customize your game** include:
 
 - Modified rules.
 - Modified game dimensions.
@@ -53,6 +53,7 @@ Then, think about ways to also make the game play slightly unique. **Possible wa
 - Make it possible to "win" the game.
 - Add a main menu or splash screen
 - Add a game over screen.
+- Use images instead of shapes.
 
 **Important:** **Explain your concept** for your digital tennis game and how you've modified it **in your header** at the top of your code.
 
@@ -61,6 +62,8 @@ Then, think about ways to also make the game play slightly unique. **Possible wa
 Think about the user of your game. Make it so that your user **never has to restart or reload your code**. Make sure when the game is over, the players are given the chance to play again, or restart the game.
 
 ## Student Examples
+
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
 
 The following are student examples used with permission:
 
@@ -81,7 +84,7 @@ Sketch by Mookyung Sohn. Mookyung created a variation of the original game of Br
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
 | **Technique**<br />- Contains all required code for **original Pong game**.<br />- All components are written in **object oriented notation**, with the exception of collision detection. | 1 pt   |
-| - Collision detection is written as a function that returns a boolean (true/false).<br />- Game runs without glitches and **collisions with ball, wall, and paddle happen at the right place** (i.e. on the correct edges) | 1 pt   |
+| - Collision detection is written as a function that returns a `boolean` (true/false).<br />- Game runs without glitches and **collisions with ball, wall, and paddle happen at the right place** (i.e. on the correct edges) | 1 pt   |
 | **Conceptual Understanding**<br />- Game is **fully customized** to reflect a concept. Code **must include more than subtle esthetic changes** to the original game of Pong (i.e. no simple color changes).<br />- A comment at the top of your code **explains in detail what your concept was** and how the game has been customized. | 1 pt   |
 | - **Instructions** are included in the header for how to play.<br />- Game keeps the player in the game environment. It **doesn't require restarting the code to play again**. | 1 pt   |
 | **Presentation**<br />- **Important:** If you worked in a group, **describe who did what in your header**.<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows)<br />- The code is presented neatly **without** commented out code. | 1 pt   |

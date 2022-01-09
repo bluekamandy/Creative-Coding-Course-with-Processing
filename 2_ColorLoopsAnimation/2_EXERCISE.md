@@ -45,6 +45,8 @@ There must be **at least 100 circles** when the screen is totally filled, but fe
 
 ## Student Examples
 
+**Note:** The examples I provide are meant to only give you an idea of what's expected. **Do not copy them. All of your ideas in this course must be original.** Create your own approach to all assignments. Copies will receive no credit.
+
 The following are student examples used with permission:
 
 ![Scott_Wu_For_Loop](images/Scott_Wu_For_Loop.gif)

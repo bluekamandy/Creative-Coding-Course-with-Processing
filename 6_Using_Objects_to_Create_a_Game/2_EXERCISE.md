@@ -56,7 +56,7 @@ Use your ball code and modify it in the following way:
 
 - Write a **collision detection boolean function** called `hitPaddle()` in which you feed the location and size of the rectangle  and the location of the ball. This function will detect when the ball is inside the square and give a visual indication by changing the fill  color of the square. You will use an **if else statement** to change the fill of the square.
 
-  Your boolean function will look a little like this when you use it (it can be written on a single line. Multiple lines used here for space. This is only pseudocode, so you'll still need to write the correct format when defining and calling a function.):
+  Your boolean function will look a little like this when you use it (it can be written on a single line. Multiple lines used here for space. This is only pseudocode, so you'll still need to write the correct format when defining and calling a function:
 
 ```java
 hitPaddle(paddle.x, paddle.y,
