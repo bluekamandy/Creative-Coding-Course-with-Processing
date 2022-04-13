@@ -68,9 +68,9 @@ Mask by Dana Nugumanova.
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
 | **Technique**<br />- Provided **template** file is used.<br />- **Minim library** is properly added to Processing. | 1 pt   |
-| - Volume is controlled using the **`map()`** function.<br />- **Easing** is implemented with the **`lerp()`** function (see instructions and example code). | 1 pt   |
+| - Volume is controlled using the **`map()`** function.<br />- **Easing** is implemented with the **`lerp()`** function *or* with the easing code provided in the template (see instructions and example code). | 1 pt   |
 | **Conceptual Understanding**<br />- You created a storyboard and sketches to plan out your mask and its motion.<br />- You wrote a script of at least 250 words for your performance and included it with your files. | 1 pt   |
-| **Presentation**<br />- Code includes **instructions** and runs without any adjustment or intervention.<br />- You provided a **link** to your project on a **video sharing website**. | 1 pt   |
+| **Presentation**<br />- Code includes **instructions** and runs without any adjustment or intervention.<br />- You uploaded a **.mov** or **.mp4** video file of your project.<br />- Optional: You provided a **link** to your project on a **video sharing website**. | 1 pt   |
 | - Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows)<br />- The code is presented neatly **without** commented out code.Code is helpfully commented for your future self. | 1 pt   |
 
 [Next Section: Module 4](../4_Functions_and_Expanded_Cinema/README.md)

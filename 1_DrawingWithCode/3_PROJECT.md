@@ -43,7 +43,7 @@ Sketch by Scott Wu.
 | Criteria                                                     | Points |
 | ------------------------------------------------------------ | ------ |
 | **Technique**<br />- **Uses the shape functions learned** in the module to create an interesting crop of an image that enables an exploration of as many of the required functions as possible (at least 5). | 1 pt   |
-| **Conceptual Understanding**<br />- **Uses color to accurately reproduce the image** selected and demonstrates knowledge of using color in code. | 1 pt   |
+| **Conceptual Understanding**<br />- **Uses color to accurately reproduce the image** selected and demonstrates knowledge of using color in code.<br />- Includes png or jpg of **original painting**. | 1 pt   |
 | **Presentation**<br />- Code has a clear, descriptive **header**.<br />- Code is helpfully **commented** for your future self.<br />- Code is **auto-formatted** (Command-T on macOS, Ctrl-T on Windows) so that tabs are correct.<br />- The code is presented neatly **without** commented out code. | 1 pt   |
 
 [Next Section: Module 2](../2_ColorLoopsAnimation/README.md)
